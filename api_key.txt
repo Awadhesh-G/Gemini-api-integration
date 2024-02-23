@@ -1,3 +1,5 @@
+//this the api key i was using . you can generate your personal api key from https://aistudio.google.com/app/apikey
 AIzaSyCG55F0xPa_F4-KXHeTI5lX0j2E_IBGPHs
 
+// to export the api key use this command in your command prompt if your using windows
 set GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY
