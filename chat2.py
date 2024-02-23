@@ -8,7 +8,7 @@ model = genai.GenerativeModel('gemini-pro')
 messages = []
 
 while True:
-    message = input("You: ")
+    message = input("Awadhesh: ")
     messages.append({
         "role": "user",
         "parts": [message],
